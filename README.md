@@ -1,3 +1,9 @@
-git remote add origin https://github.com/Prakruthi12341/my-name.git ghgjh
-git branch -M main
-git push -u origin main
+<html>
+<head>
+<title>my page</title>
+</head>
+<body>
+<h1> hello, world</h1>
+<p> This is a simple HTML page</p>
+</body>
+</html>
